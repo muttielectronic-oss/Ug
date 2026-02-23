@@ -1,0 +1,7 @@
+{
+  "name": "East Africa Herbal Hub",
+  "description": "A platform promoting traditional African herbal medicine, natural healing products, and verified local herbal practitioners across Uganda, South Sudan, and Kenya.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
